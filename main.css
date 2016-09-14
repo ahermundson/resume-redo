@@ -33,7 +33,6 @@ main {
     background-color: rgba(106,141,157,.90);
     color: white;
     margin-bottom: 25px;
-    margin-left: 20px;
 }
 
 main h1 {
@@ -44,3 +43,6 @@ main h3 {
 	margin: 10px 0 10px 0;
 }
 
+main ul {
+	margin-left: 25px;
+}
