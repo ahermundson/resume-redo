@@ -15,6 +15,11 @@ header {
     color: white;
 }
 
+header .family-photo {
+	float: right;
+	margin-top: 55px;
+}
+
 section {
     width: 80%;
     margin: 0 auto;
