@@ -11,7 +11,7 @@ header {
     text-align: center;
     margin-top: 35px;
     padding: 20px 0 20px 0;
-    background-color: rgba(106,141,157) .90);
+    background-color: rgba(106,141,157,.90);
     color: white;
 }
 
