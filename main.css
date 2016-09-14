@@ -28,3 +28,9 @@ header li {
 nav {
     margin-top: 10px;
 }
+
+main {
+    background-color: rgba(106,141,157,.90);
+    color: white;
+    margin-bottom: 25px;
+}
