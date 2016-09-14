@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    background: url("brushed.png") repeat;
+}
+
+header {
+	text-align: center;
+}
+
+header li {
+    display: inline;
+    padding: 5px;
+}
