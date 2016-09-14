@@ -17,7 +17,8 @@ header {
 
 header .family-photo {
 	float: right;
-	margin-top: 55px;
+	margin-top: 20px 20px;
+	border-radius: 50%;
 }
 
 section {
