@@ -55,6 +55,7 @@ main {
     padding-left: 25px;
     font-family: 'Hind Siliguri', sans-serif;
     border-radius: 10px;
+    box-shadow: 2px 4px 2px #D3D3D3;
 }
 
 main ul {
