@@ -58,6 +58,10 @@ main {
     box-shadow: 2px 4px 2px #D3D3D3;
 }
 
+main h1 {
+    color: rgb(157,106,141);
+}
+
 main ul {
     padding-bottom: 10px;
 }
