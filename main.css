@@ -15,6 +15,12 @@ header {
     color: white;
     font-family: 'Prompt', sans-serif;
     margin-bottom: 25px;
+    width: 50px;
+}
+
+figure {
+	float: left;
+	border-radius: 45%;
 }
 
 section {
