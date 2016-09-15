@@ -16,6 +16,11 @@ header {
     color: white;
     margin-bottom: 25px;
     font-family: 'Prompt', sans-serif;
+    border-radius: 10px;
+}
+
+header h1 {
+    font-size: 25px;
 }
 
 figure img {
@@ -48,10 +53,15 @@ main {
     margin-bottom: 25px;
     padding-left: 25px;
     font-family: 'Hind Siliguri', sans-serif;
+    border-radius: 10px;
 }
 
 main h1 {
     text-align: center;
+}
+
+main h3 {
+    padding-bottom: 15px;
 }
 
 
