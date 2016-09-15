@@ -15,10 +15,9 @@ header {
     color: white;
     font-family: 'Prompt', sans-serif;
     margin-bottom: 25px;
-    width: 50px;
 }
 
-figure {
+figure img {
 	float: right;
 	border-radius: 45%;
 }
