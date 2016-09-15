@@ -13,12 +13,8 @@ header {
     padding: 20px 0 20px 0;
     background-color: rgba(106,141,157,.90);
     color: white;
-}
-
-header .family-photo {
-	float: right;
-	margin: 10px 20px 0 0;
-	border-radius: 50%;
+    font-family: 'Prompt', sans-serif;
+    margin-bottom: 25px;
 }
 
 section {
@@ -46,9 +42,9 @@ main h1 {
 }
 
 main h3 {
-	margin: 10px 0 10px 10px;
+	margin: 10px 0 10px 0;
 }
 
 main ul {
-	margin-left: 25px;
+	margin-left: 10px;
 }
